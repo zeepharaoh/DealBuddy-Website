@@ -149,8 +149,14 @@
 }
 
 .request-demo p {
-  margin: 20px 0;
+  margin: 10px 0;
   color: #333;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .demo-btn {
